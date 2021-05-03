@@ -7,4 +7,4 @@ This code breaks a matrix into an upper and lower triangular matrix
 - L = lower triangular matrix
 - U = upper triangular matrix
 - P = the permutation matrix
-## How it works
+## Limitations
