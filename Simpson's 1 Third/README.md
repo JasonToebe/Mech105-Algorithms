@@ -6,4 +6,4 @@ This code uses the Simpson's 1/3 method to estiamte the integral of a function
 - y = the vector of function values with respect to x
 ### Outputs:
 - I = the numerical integral calculated
-## How it works
+## Limitations
