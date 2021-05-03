@@ -1,5 +1,5 @@
 # False Position
-This fonction is used to convert a base 10 number into a binary number
+This code uses the false position method to find the root of a function
 ## Inputs/Outputs
 
 ## How it works
