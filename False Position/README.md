@@ -13,4 +13,4 @@ This code uses the false position method to find the root of a function
 - fx = The function at the root value
 - ea = Approximate error
 - iter = Number of iterations
-## How it works
+## Limitations
