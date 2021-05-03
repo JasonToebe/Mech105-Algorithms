@@ -1,5 +1,5 @@
 # LU Factorization
-This code uses the false position method to find the root of a function
+This code breaks a matrix into an upper and lower triangular matrix
 ## Inputs/Outputs
 
 ## How it works
