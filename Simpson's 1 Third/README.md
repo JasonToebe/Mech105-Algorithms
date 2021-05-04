@@ -1,5 +1,5 @@
 # Simpson's 1/3 method
-This code uses the Simpson's 1/3 method to estiamte the integral of a function
+This code uses the Simpson's 1/3 method to estimate the integral of a function
 ## Inputs/Outputs
 ### Inputs:
 - x = the vector of equally spaced independent variable
