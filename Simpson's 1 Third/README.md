@@ -7,6 +7,7 @@ This code uses the Simpson's 1/3 method to estiamte the integral of a function
 ### Outputs:
 - I = the numerical integral calculated
 ## Limitations
-
+- Inputs must be the same length
+- X matrix must be equally spaced
 ## Other Information
 This function was not completely finished, and as such may not work for certain situations
